@@ -11,4 +11,7 @@ The base requirements for this software though are:
 You can do some tweaking to get everything set up correctly.
 You can use PHP in either CGI mode, as well as this software will automatically start a PHP built-in service if you so desire!
 
+I do recommend creating your own SSL files instead of using these publicly shared ones, but they are just a tool to help get you on your way!
+Feel free to mod this program and publish your own version of it!
+
 I mostly made this for fun but if someone finds use in its simplicity then great! :)
