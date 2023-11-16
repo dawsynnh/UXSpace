@@ -14,4 +14,12 @@ You can use PHP in either CGI mode, as well as this software will automatically 
 I do recommend creating your own SSL files instead of using these publicly shared ones, but they are just a tool to help get you on your way!
 Feel free to mod this program and publish your own version of it!
 
+The folder setup is a bit different depending on the mode you choose.
+If you use CGI the web root in / 
+If you use PHP built-in the web root is in index/php
+And lastly if you use Vanilla HTML with no scripts then the web root is in the index folder.
+
+These folders are in github but don't fret if you lose them!
+This program will auto-generate the required folders!
+
 I mostly made this for fun but if someone finds use in its simplicity then great! :)
