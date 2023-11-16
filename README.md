@@ -22,4 +22,5 @@ And lastly if you use Vanilla HTML with no scripts then the web root is in the i
 These folders are in github but don't fret if you lose them!
 This program will auto-generate the required folders!
 
+I do know that you can just set up apache2 or WAMP but...
 I mostly made this for fun but if someone finds use in its simplicity then great! :)
